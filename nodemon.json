@@ -1,0 +1,8 @@
+{
+  "verbose": false,
+  "watch": [
+    "./src"
+  ],
+  "exec": "webpack --mode=development --config webpack.config.js && node ./src/App.js"
+}
+
